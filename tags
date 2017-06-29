@@ -1,0 +1,125 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+A	peppa.py	/^            A = np.vstack((A,a))$/;"	kind:variable	line:81
+A	peppa.py	/^A = np.empty([0,LD])$/;"	kind:variable	line:65
+LD	peppa.py	/^LD = L*D$/;"	kind:variable	line:63
+X	pepe.py	/^X = np.concatenate((j0, m0, p0, k0), axis=0)$/;"	kind:variable	line:17
+X	ploty-kopia.py	/^from pepe import X,Y,clf,svc$/;"	kind:namespace	line:9
+X	ploty.py	/^from pepe import X,Y,clf,svc$/;"	kind:namespace	line:9
+Y	pepe.py	/^Y = np.append(np.zeros(len(j0)), [np.ones(len(m0)), np.ones(len(p0))*2, np.ones(len(k0))*3])$/;"	kind:variable	line:18
+Y	ploty-kopia.py	/^from pepe import X,Y,clf,svc$/;"	kind:namespace	line:9
+Y	ploty.py	/^from pepe import X,Y,clf,svc$/;"	kind:namespace	line:9
+__init__	voice.py	/^    def __init__(self,name):$/;"	kind:member	line:15
+__init__	voicebak.py	/^    def __init__(self,name):$/;"	kind:member	line:15
+a	peppa.py	/^        a = np.array(smffc).ravel().reshape(1, -1)$/;"	kind:variable	line:79
+base	pepepeppa.py	/^import sklearn.datasets.base$/;"	kind:namespace	line:11
+base	peppa.py	/^import sklearn.datasets.base$/;"	kind:namespace	line:55
+chunks	voice.py	/^    def chunks(self,l, n):$/;"	kind:member	line:23
+chunks	voicebak.py	/^    def chunks(self,l, n):$/;"	kind:member	line:23
+clf	pepe.py	/^clf = svm.SVC(gamma=1\/20, C=1)$/;"	kind:variable	line:20
+clf	pepepeppa.py	/^clf = svm.SVC(gamma=0.001, C=100)$/;"	kind:variable	line:34
+clf	ploty-kopia.py	/^from pepe import X,Y,clf,svc$/;"	kind:namespace	line:9
+clf	ploty.py	/^from pepe import X,Y,clf,svc$/;"	kind:namespace	line:9
+ctframes	voice.py	/^    def ctframes(self,signal,frame_size = 0.025,frame_stride = 0.01):$/;"	kind:member	line:44
+ctframes	voicebak.py	/^    def ctframes(self,signal,frame_size = 0.025,frame_stride = 0.01):$/;"	kind:member	line:41
+czytaj_plik	pepepeppa.py	/^def czytaj_plik(nazwa):$/;"	kind:function	line:17
+dataset	pepepeppa.py	/^from peppa import dataset$/;"	kind:namespace	line:9
+dataset	peppa.py	/^dataset = sklearn.datasets.base.Bunch(data = A, target=np.array(name))$/;"	kind:variable	line:84
+datasets	pepepeppa.py	/^import sklearn.datasets.base$/;"	kind:namespace	line:11
+datasets	peppa.py	/^import sklearn.datasets.base$/;"	kind:namespace	line:55
+dct	voice.py	/^from scipy.fftpack import dct$/;"	kind:namespace	line:10
+dct	voicebak.py	/^from scipy.fftpack import dct$/;"	kind:namespace	line:10
+dd	pepepeppa.py	/^dd = czytaj_plik('\/home\/khrees\/testk2.wav')$/;"	kind:variable	line:39
+dzwj	peppa.py	/^from voice import dzwk,dzwp,dzwj,dzwm$/;"	kind:namespace	line:54
+dzwj	ploty-whatever.py	/^from voice import dzwk, dzwp, dzwj, dzwm$/;"	kind:namespace	line:1
+dzwj	voice.py	/^dzwj = voice('justynka.wav')$/;"	kind:variable	line:131
+dzwj	voicebak.py	/^dzwj = voice('justynka.wav')$/;"	kind:variable	line:121
+dzwk	peppa.py	/^from voice import dzwk,dzwp,dzwj,dzwm$/;"	kind:namespace	line:54
+dzwk	ploty-whatever.py	/^from voice import dzwk, dzwp, dzwj, dzwm$/;"	kind:namespace	line:1
+dzwk	voice.py	/^dzwk = voice('krzysiu.wav')$/;"	kind:variable	line:129
+dzwk	voicebak.py	/^dzwk = voice('krzysiu.wav')$/;"	kind:variable	line:119
+dzwm	peppa.py	/^from voice import dzwk,dzwp,dzwj,dzwm$/;"	kind:namespace	line:54
+dzwm	ploty-whatever.py	/^from voice import dzwk, dzwp, dzwj, dzwm$/;"	kind:namespace	line:1
+dzwm	voice.py	/^dzwm = voice('madzia.wav')$/;"	kind:variable	line:132
+dzwm	voicebak.py	/^dzwm = voice('madzia.wav')$/;"	kind:variable	line:122
+dzwp	peppa.py	/^from voice import dzwk,dzwp,dzwj,dzwm$/;"	kind:namespace	line:54
+dzwp	ploty-whatever.py	/^from voice import dzwk, dzwp, dzwj, dzwm$/;"	kind:namespace	line:1
+dzwp	voice.py	/^dzwp = voice('pawel.wav')$/;"	kind:variable	line:130
+dzwp	voicebak.py	/^dzwp = voice('pawel.wav')$/;"	kind:variable	line:120
+enhance	voice.py	/^    def enhance(self,signal):$/;"	kind:member	line:36
+enhance	voicebak.py	/^    def enhance(self,signal):$/;"	kind:member	line:35
+fbank1	voice.py	/^    def fbank1(self):$/;"	kind:member	line:76
+fbank1	voicebak.py	/^    def fbank1(self):$/;"	kind:member	line:70
+fbanks	voice.py	/^    def fbanks(self):$/;"	kind:member	line:98
+fbanks	voicebak.py	/^    def fbanks(self):$/;"	kind:member	line:90
+fourier1	voice.py	/^    def fourier1(self):$/;"	kind:member	line:66
+fourier1	voicebak.py	/^    def fourier1(self):$/;"	kind:member	line:61
+i	ploty.py	/^i = 4$/;"	kind:variable	line:19
+importer_rykow	pepe.py	/^from voicebak import voice as importer_rykow$/;"	kind:namespace	line:1
+io	voice.py	/^import scipy.io.wavfile$/;"	kind:namespace	line:9
+io	voicebak.py	/^import scipy.io.wavfile$/;"	kind:namespace	line:9
+j	peppa.py	/^j = dzwj.mfcc #3$/;"	kind:variable	line:58
+j	ploty.py	/^j = 5$/;"	kind:variable	line:20
+j0	pepe.py	/^j0 = ryk_justynka.mfcc[4]$/;"	kind:variable	line:11
+k	peppa.py	/^k = dzwk.mfcc #1$/;"	kind:variable	line:56
+k0	pepe.py	/^k0 = ryk_krzysiu.mfcc[4]$/;"	kind:variable	line:14
+m	peppa.py	/^m = dzwm.mfcc #4$/;"	kind:variable	line:59
+m0	pepe.py	/^m0 = ryk_madzia.mfcc[4]$/;"	kind:variable	line:12
+matplotlib	ploty-kopia.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:8
+matplotlib	ploty-whatever.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:4
+matplotlib	ploty.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:8
+mfcc_w_koncu	voice.py	/^    def mfcc_w_koncu(self):$/;"	kind:member	line:108
+mfcc_w_koncu	voicebak.py	/^    def mfcc_w_koncu(self):$/;"	kind:member	line:99
+name	peppa.py	/^name = []$/;"	kind:variable	line:66
+np	pepe.py	/^import numpy as np$/;"	kind:namespace	line:9
+np	pepepeppa.py	/^import numpy as np$/;"	kind:namespace	line:12
+np	peppa.py	/^import numpy as np$/;"	kind:namespace	line:53
+np	ploty-kopia.py	/^import numpy as np$/;"	kind:namespace	line:7
+np	ploty-whatever.py	/^import numpy as np$/;"	kind:namespace	line:3
+np	ploty.py	/^import numpy as np$/;"	kind:namespace	line:7
+np	voice.py	/^import numpy as np$/;"	kind:namespace	line:8
+np	voicebak.py	/^import numpy as np$/;"	kind:namespace	line:8
+opis	ploty.py	/^opis = ['justynka', 'madzia', 'pawel', 'krzysiu']$/;"	kind:variable	line:18
+osoba	peppa.py	/^        osoba = 'justynka'$/;"	kind:variable	line:73
+osoba	peppa.py	/^        osoba = 'krzys'$/;"	kind:variable	line:69
+osoba	peppa.py	/^        osoba = 'madzia'$/;"	kind:variable	line:75
+osoba	peppa.py	/^        osoba = 'pawel'$/;"	kind:variable	line:71
+p	peppa.py	/^p = dzwp.mfcc #2$/;"	kind:variable	line:57
+p0	pepe.py	/^p0 = ryk_pawel.mfcc[4]$/;"	kind:variable	line:13
+pepe.py	pepe.py	1;"	kind:file	line:1
+pepepeppa.py	pepepeppa.py	1;"	kind:file	line:1
+peppa.py	peppa.py	1;"	kind:file	line:1
+ploty-kopia.py	ploty-kopia.py	1;"	kind:file	line:1
+ploty-whatever.py	ploty-whatever.py	1;"	kind:file	line:1
+ploty.py	ploty.py	1;"	kind:file	line:1
+plt	ploty-kopia.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:8
+plt	ploty-whatever.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:4
+plt	ploty.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:8
+read	voice.py	/^    def read(self,filename):$/;"	kind:member	line:28
+read	voicebak.py	/^    def read(self,filename):$/;"	kind:member	line:27
+ryk_justynka	pepe.py	/^ryk_justynka = importer_rykow('justynka.wav')$/;"	kind:variable	line:3
+ryk_krzysiu	pepe.py	/^ryk_krzysiu = importer_rykow('krzysiu.wav')$/;"	kind:variable	line:6
+ryk_madzia	pepe.py	/^ryk_madzia = importer_rykow('madzia.wav')$/;"	kind:variable	line:4
+ryk_pawel	pepe.py	/^ryk_pawel = importer_rykow('pawel.wav')$/;"	kind:variable	line:5
+scipy	voice.py	/^import scipy.io.wavfile$/;"	kind:namespace	line:9
+scipy	voicebak.py	/^import scipy.io.wavfile$/;"	kind:namespace	line:9
+sklearn	pepepeppa.py	/^import sklearn.datasets.base$/;"	kind:namespace	line:11
+sklearn	peppa.py	/^import sklearn.datasets.base$/;"	kind:namespace	line:55
+svc	pepe.py	/^svc = clf.fit(X, Y)$/;"	kind:variable	line:21
+svc	ploty-kopia.py	/^from pepe import X,Y,clf,svc$/;"	kind:namespace	line:9
+svc	ploty.py	/^from pepe import X,Y,clf,svc$/;"	kind:namespace	line:9
+svm	pepe.py	/^from sklearn import svm$/;"	kind:namespace	line:8
+svm	pepepeppa.py	/^from sklearn import svm$/;"	kind:namespace	line:10
+voice	pepepeppa.py	/^from voice import voice$/;"	kind:namespace	line:8
+voice	voice.py	/^class voice(object):$/;"	kind:class	line:13
+voice	voicebak.py	/^class voice(object):$/;"	kind:class	line:13
+voice.py	voice.py	1;"	kind:file	line:1
+voicebak.py	voicebak.py	1;"	kind:file	line:1
+warnings	pepepeppa.py	/^import warnings$/;"	kind:namespace	line:14
+wavfile	voice.py	/^import scipy.io.wavfile$/;"	kind:namespace	line:9
+wavfile	voicebak.py	/^import scipy.io.wavfile$/;"	kind:namespace	line:9
+we	ploty-whatever.py	/^we = dzwk.mfcc[16].T$/;"	kind:variable	line:6
